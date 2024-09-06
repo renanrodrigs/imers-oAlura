@@ -1,4 +1,4 @@
-* Bolos da Leomar 🍰
+# Bolos da Leomar 🍰
 
 Bem-vindo ao repositório do Bolos da Leomar! Este é um projeto de site de receitas que permite aos usuários buscar e visualizar informações sobre diferentes tipos de bolos. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript e conta com funcionalidades como um campo de pesquisa dinâmica para encontrar receitas por nome, descrição ou tags.
 
